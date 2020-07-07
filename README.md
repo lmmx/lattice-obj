@@ -224,6 +224,10 @@ vertex_labels
 vertex_size
 ```
 
+The SVG this was turned into by D3.js is this:
+
+![](y4.svg)
+
 ### View SVG tree with svgi
 
 The `npm`-packaged `nodejs` tool `svgi` will similarly print the tree of the SVG file generated from
