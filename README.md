@@ -224,9 +224,14 @@ vertex_labels
 vertex_size
 ```
 
-The SVG this was turned into by D3.js is this:
+The SVG this was turned into by D3.js is [here](y4.svg) (GitHub says it's invalid and won't display
+it but Firefox displays it and Inkscape parses it), and can be converted to a PNG for embedding
+below by the command `inkscape -z -w 1024 y4.svg -e y4.png`
 
-![](y4.svg)
+![](y4.png)
+
+The first thing to notice is that the dimensions should be optimised: there is far too much
+whitespace around the margins of the diagram.
 
 ### View SVG tree with svgi
 
