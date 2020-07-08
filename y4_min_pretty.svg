@@ -1,0 +1,20 @@
+<svg height="735" pointer-events="all" width="1334">
+ <g>
+  <g transform="translate(47.848381796400076,35.612361606668856) scale(0.9071316259899139)">
+   <rect fill="white" height="20000" width="20000" x="-10000" y="-10000"> </rect>
+   <path class="link directed" d="M666.3769917076821,134.73103756664625 L810.3898680419409,269.7125742360677" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px;"> </path>
+   <path class="link directed" d="M666.3769917076821,134.73103756664625 L520.8986449508284,268.1542229405705" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px;"> </path>
+   <path class="link directed" d="M666.3769917076821,134.73103756664625 L668.5815999732662,331.4188556805278" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px;"> </path>
+   <circle class="node" cx="666.3769917076821" cy="134.73103756664625" r="7" style="fill: rgb(31, 119, 180);">
+    <title> [4] </title>
+   </circle>
+   <text vertical-align="middle" x="673.3769917076821" y="134.73103756664625"> [4] </text>
+   <defs>
+    <marker id="directed" markerheight="4" markerwidth="4" orient="auto" preserveaspectratio="false" refx="6" refy="0" viewbox="0 -2 4 4">
+     <path d="M0,-2L4,0L0,2" fill="rgb(100,100,100)"> </path>
+    </marker>
+   </defs>
+  </g>
+ </g>
+</svg>
+
