@@ -277,6 +277,16 @@ Similarly for compositions of the integer 5
 
 ![](y5.png)
 
+Here I decided to change the size of the markers, as they were being shown as way too big when
+rendered by Inkscape (but not by Firefox, but still I wanted to avoid it), and I also noticed that
+when D3 renders them it gives them partial opacity, so I created a CSS style node underneath the
+`<svg>` tag. The result looks much neater, and overlaps are subtly shown by the darker shading.
+
+- The files involved here are `y5_small_markers.png` generated from `y5_small_markers.svg` and
+  viewable as a webpage as `y5_small_markers.html`
+
+![](y5_small_markers.png)
+
 ### View SVG tree with svgi
 
 The `npm`-packaged `nodejs` tool `svgi` will similarly print the tree of the SVG file generated from

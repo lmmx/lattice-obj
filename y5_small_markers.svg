@@ -3,7 +3,6 @@
    path.link {
      opacity: 0.4
    }
-   circle { opacity: 0 }
  </style>
  <g>
   <g>
@@ -73,8 +72,12 @@
    <text vertical-align="middle" x="496.4508526370778" y="491.3902911455856"> [1, 1, 1, 2] </text>
    <text vertical-align="middle" x="673.3257653351426" y="580.3719827316739"> [1, 1, 1, 1, 1] </text>
    <defs>
-    <marker id="directed" markerheight="4" markerwidth="4" orient="auto" preserveaspectratio="false" refx="6" refy="0" viewbox="0 -2 4 4">
+<!--    <marker id="directed" markerheight="4" markerwidth="4" orient="auto" preserveaspectratio="false" refx="6" refy="0" viewbox="0 -2 4 4">
      <path d="M0,-2L4,0L0,2"> </path>
+    </marker>
+-->
+    <marker id="directed" markerHeight="4" markerWidth="4" orient="auto" preserveAspectRatio="false" refX="6" refY="0" viewBox="0 -3 6 6">
+     <path d="M0,-1L2,0L0,1"> </path>
     </marker>
    </defs>
   </g>
