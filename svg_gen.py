@@ -1,7 +1,6 @@
 from demo_json import example_json, example_json_nonsquare
 from bs4 import BeautifulSoup as BS
 import numpy as np
-from scipy.sparse import coo_matrix as coo
 from math import ceil, sqrt
 import sys
 
