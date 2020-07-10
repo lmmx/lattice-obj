@@ -1,0 +1,428 @@
+<svg height="959.8080383923215" pointer-events="all" width="1600.0">
+ <g>
+  <rect height="959.8080383923215" opacity="0" width="1600.0" x="0" y="0">
+  </rect>
+  <path class="link directed" d="M733.0,79.90401919616073L437.0,239.9040191961607" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,79.90401919616073L1029.8,239.9040191961607" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,79.90401919616073L881.8,239.9040191961607" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,79.90401919616073L733.0,239.9040191961607" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,79.90401919616073L585.0,239.9040191961607" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1029.8,239.9040191961607L511.40000000000003,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1029.8,239.9040191961607L1400.2,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1029.8,239.9040191961607L1251.4,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1029.8,239.9040191961607L955.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M881.8,239.9040191961607L362.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M881.8,239.9040191961607L1400.2,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M881.8,239.9040191961607L1103.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M881.8,239.9040191961607L807.4000000000001,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1400.2,399.90401919616073L807.4000000000001,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1400.2,399.90401919616073L1400.2,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1400.2,399.90401919616073L1251.4,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,239.9040191961607L214.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,239.9040191961607L1251.4,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,239.9040191961607L1103.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,239.9040191961607L659.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1251.4,399.90401919616073L659.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1251.4,399.90401919616073L1400.2,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1251.4,399.90401919616073L1103.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1103.3999999999999,399.90401919616073L511.40000000000003,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1103.3999999999999,399.90401919616073L1400.2,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1103.3999999999999,399.90401919616073L955.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1400.2,559.9040191961608L881.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1400.2,559.9040191961608L1029.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M585.0,239.9040191961607L66.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M585.0,239.9040191961607L955.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M585.0,239.9040191961607L807.4000000000001,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M585.0,239.9040191961607L659.3999999999999,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M955.3999999999999,399.90401919616073L362.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M955.3999999999999,399.90401919616073L1251.4,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M955.3999999999999,399.90401919616073L1103.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M807.4000000000001,399.90401919616073L214.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M807.4000000000001,399.90401919616073L1251.4,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M807.4000000000001,399.90401919616073L955.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1251.4,559.9040191961608L733.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1251.4,559.9040191961608L1029.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M659.3999999999999,399.90401919616073L66.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M659.3999999999999,399.90401919616073L1103.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M659.3999999999999,399.90401919616073L955.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1103.3999999999999,559.9040191961608L585.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1103.3999999999999,559.9040191961608L1029.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M955.3999999999999,559.9040191961608L437.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M955.3999999999999,559.9040191961608L1029.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M1029.8,719.9040191961608L733.0,879.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M437.0,239.9040191961607L511.40000000000003,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M437.0,239.9040191961607L362.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M437.0,239.9040191961607L214.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M437.0,239.9040191961607L66.59999999999997,399.90401919616073" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M511.40000000000003,399.90401919616073L807.4000000000001,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M511.40000000000003,399.90401919616073L659.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M511.40000000000003,399.90401919616073L362.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M362.59999999999997,399.90401919616073L807.4000000000001,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M362.59999999999997,399.90401919616073L511.40000000000003,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M362.59999999999997,399.90401919616073L214.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M807.4000000000001,559.9040191961608L881.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M807.4000000000001,559.9040191961608L733.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M214.59999999999997,399.90401919616073L659.3999999999999,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M214.59999999999997,399.90401919616073L511.40000000000003,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M214.59999999999997,399.90401919616073L66.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M659.3999999999999,559.9040191961608L881.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M659.3999999999999,559.9040191961608L585.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M511.40000000000003,559.9040191961608L881.8,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M511.40000000000003,559.9040191961608L437.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M881.8,719.9040191961608L733.0,879.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M66.59999999999997,399.90401919616073L362.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M66.59999999999997,399.90401919616073L214.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M66.59999999999997,399.90401919616073L66.59999999999997,559.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M362.59999999999997,559.9040191961608L733.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M362.59999999999997,559.9040191961608L585.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M214.59999999999997,559.9040191961608L733.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M214.59999999999997,559.9040191961608L437.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M733.0,719.9040191961608L733.0,879.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M66.59999999999997,559.9040191961608L585.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M66.59999999999997,559.9040191961608L437.0,719.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M585.0,719.9040191961608L733.0,879.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <path class="link directed" d="M437.0,719.9040191961608L733.0,879.9040191961608" marker-end="url(#directed)" style="stroke: rgb(170, 170, 170); stroke-width: 4px; stroke-opacity: .6; opacity: .6;">
+  </path>
+  <circle class="node" cx="733.0" cy="79.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [6]
+   </title>
+  </circle>
+  <circle class="node" cx="1029.8" cy="239.9040191961607" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [5, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="881.8" cy="239.9040191961607" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [4, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="1400.2" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [4, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="733.0" cy="239.9040191961607" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [3, 3]
+   </title>
+  </circle>
+  <circle class="node" cx="1251.4" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [3, 2, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="1103.3999999999999" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [3, 1, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="1400.2" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [3, 1, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="585.0" cy="239.9040191961607" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 4]
+   </title>
+  </circle>
+  <circle class="node" cx="955.3999999999999" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 3, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="807.4000000000001" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 2, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="1251.4" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 2, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="659.3999999999999" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 1, 3]
+   </title>
+  </circle>
+  <circle class="node" cx="1103.3999999999999" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 1, 2, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="955.3999999999999" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 1, 1, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="1029.8" cy="719.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [2, 1, 1, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="437.0" cy="239.9040191961607" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 5]
+   </title>
+  </circle>
+  <circle class="node" cx="511.40000000000003" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 4, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="362.59999999999997" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 3, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="807.4000000000001" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 3, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="214.59999999999997" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 2, 3]
+   </title>
+  </circle>
+  <circle class="node" cx="659.3999999999999" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 2, 2, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="511.40000000000003" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 2, 1, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="881.8" cy="719.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 2, 1, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="66.59999999999997" cy="399.90401919616073" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 4]
+   </title>
+  </circle>
+  <circle class="node" cx="362.59999999999997" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 3, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="214.59999999999997" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 2, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="733.0" cy="719.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 2, 1, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="66.59999999999997" cy="559.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 1, 3]
+   </title>
+  </circle>
+  <circle class="node" cx="585.0" cy="719.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 1, 2, 1]
+   </title>
+  </circle>
+  <circle class="node" cx="437.0" cy="719.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 1, 1, 2]
+   </title>
+  </circle>
+  <circle class="node" cx="733.0" cy="879.9040191961608" r="7" style="fill: rgb(31, 119, 180); stroke: #fff; stroke-width: 1.5px;">
+   <title>
+    [1, 1, 1, 1, 1, 1]
+   </title>
+  </circle>
+  <text vertical-align="middle" x="740.0" y="79.90401919616073">
+   [6]
+  </text>
+  <text vertical-align="middle" x="1036.8" y="239.9040191961607">
+   [5, 1]
+  </text>
+  <text vertical-align="middle" x="888.8" y="239.9040191961607">
+   [4, 2]
+  </text>
+  <text vertical-align="middle" x="1407.2" y="399.90401919616073">
+   [4, 1, 1]
+  </text>
+  <text vertical-align="middle" x="740.0" y="239.9040191961607">
+   [3, 3]
+  </text>
+  <text vertical-align="middle" x="1258.4" y="399.90401919616073">
+   [3, 2, 1]
+  </text>
+  <text vertical-align="middle" x="1110.3999999999999" y="399.90401919616073">
+   [3, 1, 2]
+  </text>
+  <text vertical-align="middle" x="1407.2" y="559.9040191961608">
+   [3, 1, 1, 1]
+  </text>
+  <text vertical-align="middle" x="592.0" y="239.9040191961607">
+   [2, 4]
+  </text>
+  <text vertical-align="middle" x="962.3999999999999" y="399.90401919616073">
+   [2, 3, 1]
+  </text>
+  <text vertical-align="middle" x="814.4000000000001" y="399.90401919616073">
+   [2, 2, 2]
+  </text>
+  <text vertical-align="middle" x="1258.4" y="559.9040191961608">
+   [2, 2, 1, 1]
+  </text>
+  <text vertical-align="middle" x="666.3999999999999" y="399.90401919616073">
+   [2, 1, 3]
+  </text>
+  <text vertical-align="middle" x="1110.3999999999999" y="559.9040191961608">
+   [2, 1, 2, 1]
+  </text>
+  <text vertical-align="middle" x="962.3999999999999" y="559.9040191961608">
+   [2, 1, 1, 2]
+  </text>
+  <text vertical-align="middle" x="1036.8" y="719.9040191961608">
+   [2, 1, 1, 1, 1]
+  </text>
+  <text vertical-align="middle" x="444.0" y="239.9040191961607">
+   [1, 5]
+  </text>
+  <text vertical-align="middle" x="518.4000000000001" y="399.90401919616073">
+   [1, 4, 1]
+  </text>
+  <text vertical-align="middle" x="369.59999999999997" y="399.90401919616073">
+   [1, 3, 2]
+  </text>
+  <text vertical-align="middle" x="814.4000000000001" y="559.9040191961608">
+   [1, 3, 1, 1]
+  </text>
+  <text vertical-align="middle" x="221.59999999999997" y="399.90401919616073">
+   [1, 2, 3]
+  </text>
+  <text vertical-align="middle" x="666.3999999999999" y="559.9040191961608">
+   [1, 2, 2, 1]
+  </text>
+  <text vertical-align="middle" x="518.4000000000001" y="559.9040191961608">
+   [1, 2, 1, 2]
+  </text>
+  <text vertical-align="middle" x="888.8" y="719.9040191961608">
+   [1, 2, 1, 1, 1]
+  </text>
+  <text vertical-align="middle" x="73.59999999999997" y="399.90401919616073">
+   [1, 1, 4]
+  </text>
+  <text vertical-align="middle" x="369.59999999999997" y="559.9040191961608">
+   [1, 1, 3, 1]
+  </text>
+  <text vertical-align="middle" x="221.59999999999997" y="559.9040191961608">
+   [1, 1, 2, 2]
+  </text>
+  <text vertical-align="middle" x="740.0" y="719.9040191961608">
+   [1, 1, 2, 1, 1]
+  </text>
+  <text vertical-align="middle" x="73.59999999999997" y="559.9040191961608">
+   [1, 1, 1, 3]
+  </text>
+  <text vertical-align="middle" x="592.0" y="719.9040191961608">
+   [1, 1, 1, 2, 1]
+  </text>
+  <text vertical-align="middle" x="444.0" y="719.9040191961608">
+   [1, 1, 1, 1, 2]
+  </text>
+  <text vertical-align="middle" x="740.0" y="879.9040191961608">
+   [1, 1, 1, 1, 1, 1]
+  </text>
+  <defs>
+   <marker id="directed" markerHeight="4" markerWidth="4" orient="auto" preserveAspectRatio="none" refX="6" refY="0" viewBox="0 -2 4 4">
+    <path d="M0,-2L4,0L0,2">
+    </path>
+   </marker>
+  </defs>
+ </g>
+</svg>

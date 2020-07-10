@@ -486,8 +486,8 @@ python -c "from bs4 import BeautifulSoup as bs; soup=bs(open('y4.svg')); h=soup.
 ### Figuring out how D3 generates SVG
 
 Looking at the D3.js file Sage uses, it appends an `svg` tag to the `body` of the DOM,
-then sets its width and height to those in the JSON, then sets `pointer-events:all` on this
-top-level (I don't think these are needed for non-browser SVG as I am looking to make).
+then sets its width and height based on those of the screen, then sets `pointer-events:all`
+on this top-level (not needed for non-browser SVG as I am looking to make).
 
 - The `width` and `height` are set from `document.documentElement.clientWidth` minus 32px
 
@@ -623,6 +623,28 @@ Next, edges get a `d` attribute, which (for non-curved lines which all of ours a
 Next, vertex labels are positioned as `d.x + graph.vertex_size` (`r=7` here) and `d.y`
 
 Next, edge labels are positioned as `d.source.x` and `d.source.y`
+
+### Generating the SVG from Sage's JSON
+
+It turns out we can generate the SVG using only the `pos`, `nodes`, and `links`
+entries of the JSON object Sage sends into a HTML document for subsequent
+rendering as SVG by Javascript.
+
+The function `svg_from_json` in `svg_gen.py` will convert a string passed
+in as the `json` argument to an SVG matching that created by the D3.js
+script Sage generates. It doesn't generate that JSON, so in theory we
+can bypass that step next.
+
+Try it out with the function `svg_from_json_demo` also in `svg_gen.py`.
+Both of these functions can be passed a file path string as the argument
+`printer` which will be passed to `print`'s `file` parameter so as to
+write the SVG output into a file on disk.
+
+- e.g. `svg_from_json_demo(printer=open("demo_ic6.svg", "w"))` generates
+  [`demo_ic6.svg`](demo_ic6.svg)
+  - Displayed here via `inkscape -z -w 1024 demo_ic6.svg -e demo_ic6.png`
+
+![](demo_ic6.png)
 
 ### Viewing the ODP file
 
