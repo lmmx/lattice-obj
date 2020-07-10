@@ -27,6 +27,12 @@ def svg_from_json(json, scale=800, pprint=False, printer=sys.stdout):
     span = pos.max(axis=0) - pos.min(axis=0)
     aspect_ratio = np.divide(*span) # wide if AR > 1, narrow if AR < 1
     h, w = 2 * scale / span
+    shift = (np.array([w, h]) - scale * span) / 2
+    shift_downscale = (2.5, 1) # Reduce the x (left) shift to account for RHS label
+    shift_loss = shift - (shift / shift_downscale)
+    shift /= shift_downscale
+    # Account for the trimmed left shift (avoid "spare width" on RHS)
+    w, h = (w, h) - shift_loss
     circ_radius = 7
     svg_tag = svg.new_tag("svg", attrs={
         "width": w,
@@ -49,8 +55,6 @@ def svg_from_json(json, scale=800, pprint=False, printer=sys.stdout):
     sources = [e.get("source") for e in json.get("links")]
     targets = [e.get("target") for e in json.get("links")]
     arcs = np.array([sources, targets]).T
-    shift = (np.array([w, h]) - scale * span) / 2
-    shift /= (2, 1) # Reduce the left shift a little to account for RHS label
     scaled_positions = scale * (pos - pos.min(axis=0)) + shift
     scaled_arc_positions = scale * (pos - pos.min(axis=0))[arcs] + shift
     arc_style = "stroke: rgb(170, 170, 170); stroke-width: 4px;"
@@ -98,7 +102,8 @@ def svg_from_json(json, scale=800, pprint=False, printer=sys.stdout):
         "markerWidth": vb_width,
         "markerHeight": vb_height,
         "preserveAspectRatio": "none",
-        "orient": "auto"
+        "orient": "auto",
+        "style": "fill: #bbb;"
     })
     tri_pts = [(0, -2), (4, 0), (0, 2)] # 3 endpoints of a triangle ==> "M0,-2L4,0L0,2"
     d_str = "".join([s + ','.join(map(repr, tri_pts[i])) for i, s in enumerate("MLL")])

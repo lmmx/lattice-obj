@@ -642,7 +642,12 @@ write the SVG output into a file on disk.
 
 - e.g. `svg_from_json_demo(printer=open("demo_ic6.svg", "w"))` generates
   [`demo_ic6.svg`](demo_ic6.svg)
-  - Displayed here via `inkscape -z -w 1024 demo_ic6.svg -e demo_ic6.png`
+
+```sh
+python -c 'from svg_gen import *; svg_from_json_demo(printer=open("demo_ic6.svg", "w"))' > /dev/null
+echo "$(echo '<html><body>'; cat demo_ic6.svg; echo '</html></body>')" > demo_ic6.html
+inkscape -z -w 1024 demo_ic6.svg -e demo_ic6.png
+```
 
 ![](demo_ic6.png)
 
