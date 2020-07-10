@@ -646,7 +646,7 @@ write the SVG output into a file on disk.
 ```sh
 python -c 'from svg_gen import *; svg_from_json_demo(printer=open("demo_ic6.svg", "w"))' > /dev/null
 echo "$(echo '<html><body>'; cat demo_ic6.svg; echo '</html></body>')" > demo_ic6.html
-inkscape -z -w 1024 demo_ic6.svg -e demo_ic6.png
+inkscape -z -w 3072 demo_ic6.svg -e demo_ic6.png
 ```
 
 ![](demo_ic6.png)
